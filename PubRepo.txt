@@ -5,5 +5,3 @@ You guys can start contributing to it
 Testing contribution from another USER
 
 Added a new line today - Nov29th
-
-this is my updated data-faisal
